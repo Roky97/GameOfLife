@@ -15,11 +15,11 @@ const int FPS=60; //frame al secondo
 const int cicli=10000; //numero di cicli da eseguire
 
 //RISOLUZIONE
-// int w=1920; //fullHD
-// int h=1080;
+int w=1920; //fullHD
+int h=1080;
 
-int w=2560; //MacBook Pro 13'
-int h=1600;
+// int w=2560; //MacBook Pro 13'
+// int h=1600;
 
 int dimQuad=10; // dimenzione del lato una singola casella in pixel. (5 o 10 o 20)
 
